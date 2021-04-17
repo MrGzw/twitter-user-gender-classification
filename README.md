@@ -8,7 +8,7 @@
 2.3 过滤掉 'link_color' 列和 'sidebar_color' 列非法的16进制数据
 2.4 清洗文本数据
 2.5 根据profileimage的链接判断头像图片是否有效，
-2. 6  替换male->0, female->1
+2.6 替换male->0, female->1
 
 3. 分割数据集
 分词 去除停用词
